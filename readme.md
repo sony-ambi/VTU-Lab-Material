@@ -15,3 +15,5 @@ a good branch name should explain what this branch is about eg. `sem-5_CompterSc
 - Add the upstream url of original repository, follow the instructions [here](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 - Make sure your repository is in sync with the original repository's master branch. Follow the instruction [here](https://help.github.com/articles/syncing-a-fork/) to know how to keep your local repository in sync.
 - Finally when you have made the changes, submit a pull request through github from the original repository, choose your branch against the master of original or create a new branch.
+
+n
